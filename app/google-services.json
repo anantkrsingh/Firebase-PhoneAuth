@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "348263330352",
+    "project_id": "fir-ebde6",
+    "storage_bucket": "fir-ebde6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348263330352:android:d8e3ed432e6d6c5d2773f5",
+        "android_client_info": {
+          "package_name": "com.demo.phoneauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1v196bDrkjRvhs8ElOpIhG5tKwZoxcu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
